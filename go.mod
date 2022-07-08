@@ -1,4 +1,4 @@
-module github.com/derailed/k9s
+module github.com/psibre/k9s
 
 go 1.18
 
